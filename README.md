@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Nishant Sharma, a self-taught data analyst from INDIA 🇮🇳
+
 ## About Me :
