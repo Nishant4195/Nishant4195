@@ -1,4 +1,4 @@
-## Hi there! :sparkles: 👋
+## Hi there!  👋:sparkles:
 
 <!--
 **Nishant4195/Nishant4195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
