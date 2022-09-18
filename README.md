@@ -18,5 +18,5 @@ I'm a self-taught data analyst from INDIA 🇮🇳
 
 ## About Me : 🧍‍♂️
 
-Currently Learning 
-Recently completed 180+ hours Course : "Google Data Analytics Professional Certificate" 
+* Currently Learning (Coursera) : "Applied Data Science with Python Specialization".
+* Recently completed 180+ hours Course (Coursera) : "Google Data Analytics Professional Certificate".
