@@ -1,23 +1,7 @@
-## Hi there!  👋:sparkles: I am Nishant Sharma
+## Hello, 👋:sparkles: 
 
-<!--
-**Nishant4195/Nishant4195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me : I am Nishant Sharma 🧍‍♂️
+I'm a self-taught **Data enthusiast** from INDIA 🇮🇳 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-## About Me : 🧍‍♂️
-#### I'm a self-taught data analyst from INDIA 🇮🇳 
-
-* 🌱Currently Learning (Coursera) : "Applied Data Science with Python Specialization".
-* 📝Recently completed 180+ hours Course (Coursera) : "Google Data Analytics Professional Certificate".
+* 🌱Currently Learning (Coursera) : <a href="https://www.coursera.org/specializations/data-science-python">Applied Data Science with Python Specialization"</a>.
+* 📝Recently completed approx. 37 weeks Course (Coursera) : <a href="https://coursera.org/verify/professional-cert/KRDFVNE9F32A">Google Data Analytics Professional Certificate".</a>
