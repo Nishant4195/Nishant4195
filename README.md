@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a self-taught data analyst from INDIA 🇮🇳 
+
 
 ## About Me : 🧍‍♂️
+#### I'm a self-taught data analyst from INDIA 🇮🇳 
 
-* Currently Learning (Coursera) : "Applied Data Science with Python Specialization".
-* Recently completed 180+ hours Course (Coursera) : "Google Data Analytics Professional Certificate".
+* 🌱Currently Learning (Coursera) : "Applied Data Science with Python Specialization".
+* 📝Recently completed 180+ hours Course (Coursera) : "Google Data Analytics Professional Certificate".
