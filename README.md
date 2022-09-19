@@ -8,8 +8,9 @@
 [![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishant4195&show_icons=true&theme=vue )](https://github.com/Nishant4195/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant4195&layout=compact)](https://github.com/Nishant4195/github-readme-stats)
 
-## About Me : I am Nishant Sharma 🧍‍♂️
-I'm a self-taught **Data enthusiast** from INDIA 🇮🇳 
+## About Me : 
+I am **Nishant Sharma**, 🧍‍♂️ a self-taught **Data enthusiast** from INDIA 🇮🇳 
 
-* 🌱Currently Learning (Coursera) : <a href="https://www.coursera.org/specializations/data-science-python">Applied Data Science with Python Specialization"</a>.
-* 📝Recently completed approx. 37 weeks Course (Coursera) : <a href="https://coursera.org/verify/professional-cert/KRDFVNE9F32A">Google Data Analytics Professional Certificate".</a>
+* 🌱Currently Learning (Coursera) : <a href="https://www.coursera.org/specializations/data-science-python">"Applied Data Science with Python Specialization"</a>.
+* 📝Recently completed Approx. 37 weeks Course (Coursera) : <a href="https://coursera.org/verify/professional-cert/KRDFVNE9F32A">"Google Data Analytics Professional Certificate".</a>
+* 📝Recently completed Approx. 16 hours Course (Coursera) : <a href="https://coursera.org/verify/MVSRPYEA45XW">"Introduction to Git and GitHub".</a>
