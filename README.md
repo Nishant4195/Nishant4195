@@ -5,7 +5,7 @@
 <a href="https://www.hackerrank.com/niku4195jjn"><img src="link_logos/HackerRank.png" width="60" /></a>
 <a href="https://www.kaggle.com/nishantsharma4195"><img src="link_logos/kaggle.jpg" width="40" /></a>
 
-[![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishant4195&show_icons=true&theme=vue )](https://github.com/Nishant4195/github-readme-stats)
+[![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishant4195&show_icons=true&show_icons=true&theme=vue)](https://github.com/Nishant4195/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant4195&layout=compact)](https://github.com/Nishant4195/github-readme-stats)
 
 ## About Me : 
